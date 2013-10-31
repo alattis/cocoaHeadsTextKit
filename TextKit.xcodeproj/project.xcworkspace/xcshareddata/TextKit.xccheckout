@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>0CD40093-CB5B-45CC-81BB-1BDEB5256B07</string>
+	<key>IDESourceControlProjectName</key>
+	<string>TextKit</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>3D344AA8-16B8-4C15-9D32-3C1AE531D5BC</key>
+		<string>https://github.com/alattis/cocoaHeadsTextKit.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>TextKit.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>3D344AA8-16B8-4C15-9D32-3C1AE531D5BC</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/alattis/cocoaHeadsTextKit.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>3D344AA8-16B8-4C15-9D32-3C1AE531D5BC</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>3D344AA8-16B8-4C15-9D32-3C1AE531D5BC</string>
+			<key>IDESourceControlWCCName</key>
+			<string>cocoaHeadsTextKit</string>
+		</dict>
+	</array>
+</dict>
+</plist>
